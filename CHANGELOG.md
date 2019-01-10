@@ -7,7 +7,9 @@
 
     ### IntelliJ IDEA ###
         .idea *.iws *.iml *.ipr
-
+2. 修改pom.xml中url的地址错误，改为
+    https://github.com/lksoulman/spring-boot-assembly-example
+	
 ### 1.0.0-RELEASE  2019-01-09
 1. 完成spring boot项目使用maven-assembly-plugin等插件整合
 2. 将项目打包成tar.zip
