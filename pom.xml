@@ -11,7 +11,7 @@
 
   <name>spring-boot-assembly-example</name>
   <description>Assembly Example Project for Spring Boot</description>
-  <url>https://github.com/github/spring-boot-assembly-example</url>
+  <url>https://github.com/lksoulman/spring-boot-assembly-example</url>
 
   <licenses>
     <license>
